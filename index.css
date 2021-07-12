@@ -1,5 +1,9 @@
+
 body {
 	background-color: #dcd3ff;
+	max-width: 500px;
+	margin: auto;
+	padding: 10px;
 }
 
 .grid {
